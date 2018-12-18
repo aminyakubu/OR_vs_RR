@@ -1,0 +1,7 @@
+---
+title: "OR vs RR"
+author: "Amin Yakubu"
+date: "12/18/2018"
+output: html_document
+---
+
